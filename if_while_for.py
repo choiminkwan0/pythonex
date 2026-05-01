@@ -110,7 +110,7 @@ for i in range(2, 10):
     print(f"{number} x {i} = {result}")
 
 number = int(input("출력하고 싶은 단을 입력하세요: "))
-i = 2
+i = 0
 print(f"---{number}단---")
 while i <= 9:
     i += 1
