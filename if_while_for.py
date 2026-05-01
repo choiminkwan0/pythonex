@@ -105,7 +105,7 @@ for i in range(4, 5):
 
 number = int(input("출력하고 싶은 단을 입력하세요 "))
 print(f"---{number}단---")
-for i in range(2, 10):
+for i in range(1, 10):
     result = number * i
     print(f"{number} x {i} = {result}")
 
